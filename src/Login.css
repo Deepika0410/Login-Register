@@ -1,0 +1,24 @@
+.Login{
+    background-color: teal;
+    padding: 30px;
+    margin: 20px;
+    margin-left: 370px;
+    width: 340px;
+    height: 400px;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+}
+
+button{
+    margin: 10px;
+    padding: 10px;
+    width: 120px;
+    margin-left: 100px;
+}
+
+label{
+    margin: 15px;
+}
